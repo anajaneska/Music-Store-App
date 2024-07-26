@@ -1,0 +1,13 @@
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Service\bin\Debug\net8.0\MusicStoreApp.Service.deps.json
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Service\bin\Debug\net8.0\MusicStoreApp.Service.dll
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Service\bin\Debug\net8.0\MusicStoreApp.Service.pdb
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Service\obj\Debug\net8.0\MusicStoreApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Service\obj\Debug\net8.0\MusicStoreApp.Service.AssemblyInfoInputs.cache
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Service\obj\Debug\net8.0\MusicStoreApp.Service.AssemblyInfo.cs
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Service\obj\Debug\net8.0\MusicStoreApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Service\obj\Debug\net8.0\MusicStoreApp.Service.sourcelink.json
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Service\obj\Debug\net8.0\MusicStoreApp.Service.dll
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Service\obj\Debug\net8.0\refint\MusicStoreApp.Service.dll
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Service\obj\Debug\net8.0\MusicStoreApp.Service.pdb
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Service\obj\Debug\net8.0\ref\MusicStoreApp.Service.dll
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Service\obj\Debug\net8.0\MusicStoreApp.Service.csproj.AssemblyReference.cache

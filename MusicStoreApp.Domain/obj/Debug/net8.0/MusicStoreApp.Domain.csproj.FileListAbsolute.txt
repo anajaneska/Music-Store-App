@@ -1,0 +1,13 @@
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Domain\obj\Debug\net8.0\MusicStoreApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Domain\obj\Debug\net8.0\MusicStoreApp.Domain.AssemblyInfoInputs.cache
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Domain\obj\Debug\net8.0\MusicStoreApp.Domain.AssemblyInfo.cs
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Domain\obj\Debug\net8.0\MusicStoreApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Domain\obj\Debug\net8.0\MusicStoreApp.Domain.sourcelink.json
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Domain\bin\Debug\net8.0\MusicStoreApp.Domain.deps.json
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Domain\bin\Debug\net8.0\MusicStoreApp.Domain.dll
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Domain\bin\Debug\net8.0\MusicStoreApp.Domain.pdb
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Domain\obj\Debug\net8.0\MusicStoreApp.Domain.csproj.AssemblyReference.cache
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Domain\obj\Debug\net8.0\MusicStoreApp.Domain.dll
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Domain\obj\Debug\net8.0\refint\MusicStoreApp.Domain.dll
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Domain\obj\Debug\net8.0\MusicStoreApp.Domain.pdb
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Domain\obj\Debug\net8.0\ref\MusicStoreApp.Domain.dll
