@@ -147,3 +147,5 @@ C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Web\obj\Debug\net8.0\refint
 C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Web\obj\Debug\net8.0\MusicStoreApp.Web.pdb
 C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Web\obj\Debug\net8.0\MusicStoreApp.Web.genruntimeconfig.cache
 C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Web\obj\Debug\net8.0\ref\MusicStoreApp.Web.dll
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Web\bin\Debug\net8.0\MusicStoreApp.Repository.dll
+C:\Users\anaja\Downloads\MusicStoreApp\MusicStoreApp.Web\bin\Debug\net8.0\MusicStoreApp.Repository.pdb
